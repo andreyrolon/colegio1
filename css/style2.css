@@ -1,0 +1,64 @@
+ 
+ 
+
+ 
+
+ 
+ 
+table , td, th {
+    border: 1px solid #595959;
+    border-collapse: collapse; 
+    padding: 3px;
+        vertical-align: top;
+  
+}
+ 
+td{
+    
+    text-align: center;
+     font-size: 13px;
+}
+ 
+
+ 
+ 
+
+ 
+ 
+.centra{
+    text-align: center; 
+    color: black;
+    font-size: 10px;
+}
+
+ 
+
+ 
+
+ 
+ 
+ 
+.titulcol{
+
+    background-color:#e5e5e5;
+    color: black;
+    text-align: center;
+   
+    
+    
+}
+ 
+.titul2{
+
+    font-weight: bold;
+    background-color:#a0bad3;
+    text-align: center; 
+     
+}
+
+.anchor1,.anchor1{
+     font-family: serif;
+    font-size: 12px;
+    height: 19px;
+
+}

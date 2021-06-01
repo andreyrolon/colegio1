@@ -1,0 +1,61 @@
+.bordeado{
+   color: black;
+    text-align: center;
+    font-family: monospace;
+    font-size: 120%;
+  
+    
+}
+
+.imgRedonda {
+    width:160px;
+    height:160px;
+    border-radius:150px;
+}
+
+table {
+  border: black 2px solid;
+}
+
+tr{
+   border: black 2px solid;  
+}
+
+td{
+  border: black 2px solid;  
+    
+}
+
+.letra{
+    font:150% sans-serif;
+    color: black;
+    text-align: center;
+}
+
+.centra{
+    text-align: center;
+    font-weight: bold;
+}
+
+.letra1{
+ 
+    color: black;
+    
+}
+
+.titulcol{
+    background-color:#;
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 16px;
+    
+}
+
+.titul2{
+    background-color:#e5e5e5;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: black;
+}

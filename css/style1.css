@@ -1,0 +1,69 @@
+ 
+ 
+
+ 
+
+ 
+ 
+table , td, th {
+    border: 1px solid #595959;
+    border-collapse: collapse; 
+        vertical-align: top;
+}
+ 
+td{
+    
+    text-align: center;
+     font-size: 13px;
+}
+ 
+
+ 
+ 
+
+ 
+ 
+.centra{
+    text-align: center; 
+    color: black;
+    font-size: 10px;
+}
+
+ 
+
+ 
+
+ 
+ 
+ 
+.titulcol{
+
+    background-color:#e5e5e5;
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+    
+    
+}
+.anchor2{
+    width: 250px;
+}
+.tipo{
+
+    width: 150px;
+}
+.anchor3{
+    width: 100px;
+}
+ 
+.firma{
+
+    height: 49px;
+}
+.titul2{
+
+    font-weight: bold;
+    background-color:#a0bad3;
+    text-align: center; 
+     
+}

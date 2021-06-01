@@ -1,0 +1,728 @@
+<table border="1">
+<tr>
+	<th colspan="2" >Colegio:</th>
+    <th colspan="4">INSTITUCION EDUCATIVA  NUESTRA SEÑORA DE BELEN</th>
+	<th colspan="2" >Sede:</th>
+    <th >01</th>    
+	<th colspan="2" >Jornada:</th>
+    <th >M</th>    
+	<th colspan="2">Grado:</th>
+    <th >11</th>    
+	<th colspan="2" >Curso:</th>
+    <th >01</th>    
+	<th colspan="2" >Periodo:</th>
+    <th contenteditable="false" >1</th>    
+	<th colspan="2" >Area:</th>
+    <th >20</th>
+    <th colspan="6">TECNOLOGÍA E INFORMÁTICA</th>
+</tr>
+<tr>
+	<th colspan="2">Docente:</th>
+    <th colspan="4">BAUTISTA LAGUADO FELIPE </th>
+            <th colspan="8">Saber</th>
+        <th>30</th>
+           <th colspan="8">Hacer</th>
+        <th>40</th>
+           <th colspan="3">Ser</th>
+        <th>10</th>
+           <th colspan="1">Bimestral</th>
+        <th>20</th>
+        
+    <th>Nota</th>
+<(
+<tr>
+	<th>No.</th>
+	<th>Codigo</th>
+    <th>Apellido1</th>
+    <th>Apellido2</th>
+    <th>Nombre1</th>
+    <th>Nombre2</th>
+    <th>No1</th><th>No2</th><th>No3</th><th>No4</th><th>No5</th><th>No6</th><th>No7</th><th>No8</th><th>Prom</th><th>No9</th><th>No10</th><th>No11</th><th>No12</th><th>No13</th><th>No14</th><th>No15</th><th>No16</th><th>Prom</th><th>No17</th><th>No18</th><th>No19</th><th>Prom</th><th>No20</th><th>Prom</th>    <th>Defi</th>
+</tr>
+<tr>
+	<td>1</td>
+    <td>9716</td>
+    <td>BAYONA</td>
+    <td></td>
+    <td>DANIELA</td>
+    <td>ALEJANDRA</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G4.N4);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P4.W4);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y4.AA4);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC4.AC4);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O4*O2+X4*X2+AB4*AB2+AD4*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>2</td>
+    <td>9800</td>
+    <td>BAYONA</td>
+    <td></td>
+    <td>MAIKEL</td>
+    <td>MICHEL</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G5.N5);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P5.W5);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y5.AA5);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC5.AC5);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O5*O2+X5*X2+AB5*AB2+AD5*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>3</td>
+    <td>8936</td>
+    <td>BAYONA</td>
+    <td>IBAÑEZ</td>
+    <td>MAIRA</td>
+    <td>ZHARICK</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G6.N6);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P6.W6);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y6.AA6);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC6.AC6);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O6*O2+X6*X2+AB6*AB2+AD6*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>4</td>
+    <td>2014149</td>
+    <td>BECERRA</td>
+    <td>CELIS</td>
+    <td>JUAN</td>
+    <td>SEBASTIAN</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G7.N7);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P7.W7);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y7.AA7);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC7.AC7);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O7*O2+X7*X2+AB7*AB2+AD7*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>5</td>
+    <td>13412</td>
+    <td>CALDERON</td>
+    <td>QUINTERO</td>
+    <td>KEVIN</td>
+    <td>ALBERTO</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G8.N8);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P8.W8);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y8.AA8);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC8.AC8);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O8*O2+X8*X2+AB8*AB2+AD8*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>6</td>
+    <td>20201226</td>
+    <td>CASTRO</td>
+    <td>FIAYO</td>
+    <td>JENIFFER</td>
+    <td>ALEJANDRA</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G9.N9);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P9.W9);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y9.AA9);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC9.AC9);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O9*O2+X9*X2+AB9*AB2+AD9*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>7</td>
+    <td>20172440</td>
+    <td>CONTRERAS</td>
+    <td>VERGEL</td>
+    <td>DEISY</td>
+    <td>SHIRLEY</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G10.N10);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P10.W10);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y10.AA10);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC10.AC10);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O10*O2+X10*X2+AB10*AB2+AD10*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>8</td>
+    <td>46249</td>
+    <td>GARCIA</td>
+    <td>ANDRADE</td>
+    <td>SHELSEA</td>
+    <td>ELIANY</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G11.N11);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P11.W11);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y11.AA11);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC11.AC11);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O11*O2+X11*X2+AB11*AB2+AD11*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>9</td>
+    <td>20190488</td>
+    <td>GELVEZ</td>
+    <td>IBAÑEZ</td>
+    <td>BRITNEY </td>
+    <td>YOJANDY</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G12.N12);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P12.W12);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y12.AA12);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC12.AC12);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O12*O2+X12*X2+AB12*AB2+AD12*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>10</td>
+    <td>9673</td>
+    <td>GELVIS</td>
+    <td>NAVARRO</td>
+    <td>JUAN</td>
+    <td>DAVID</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G13.N13);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P13.W13);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y13.AA13);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC13.AC13);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O13*O2+X13*X2+AB13*AB2+AD13*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>11</td>
+    <td>20171922</td>
+    <td>HERNANDEZ</td>
+    <td>GUERRERO</td>
+    <td>JOELYS</td>
+    <td>DANIELA</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G14.N14);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P14.W14);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y14.AA14);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC14.AC14);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O14*O2+X14*X2+AB14*AB2+AD14*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>12</td>
+    <td>20172907</td>
+    <td>JACOME</td>
+    <td>VILLAMIZAR</td>
+    <td>PAULA</td>
+    <td>ANDREA</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G15.N15);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P15.W15);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y15.AA15);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC15.AC15);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O15*O2+X15*X2+AB15*AB2+AD15*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>13</td>
+    <td>20172665</td>
+    <td>JIMENEZ</td>
+    <td>CASTRO</td>
+    <td>JHON</td>
+    <td>CARLOS</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G16.N16);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P16.W16);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y16.AA16);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC16.AC16);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O16*O2+X16*X2+AB16*AB2+AD16*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>14</td>
+    <td>20171540</td>
+    <td>NAJAR </td>
+    <td>CARRERO </td>
+    <td>SARAY </td>
+    <td>DAYANA</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G17.N17);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P17.W17);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y17.AA17);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC17.AC17);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O17*O2+X17*X2+AB17*AB2+AD17*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>15</td>
+    <td>36369</td>
+    <td>PARADA</td>
+    <td>LIZARAZO</td>
+    <td>CINDY</td>
+    <td>DAYANA</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G18.N18);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P18.W18);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y18.AA18);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC18.AC18);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O18*O2+X18*X2+AB18*AB2+AD18*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>16</td>
+    <td>17061</td>
+    <td>PORTILLA</td>
+    <td>PACHECO</td>
+    <td>JAIDER</td>
+    <td>JOSE</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G19.N19);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P19.W19);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y19.AA19);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC19.AC19);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O19*O2+X19*X2+AB19*AB2+AD19*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>17</td>
+    <td>34018</td>
+    <td>SANCHEZ</td>
+    <td>PRADA</td>
+    <td>THAILY</td>
+    <td>DAYANA</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G20.N20);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P20.W20);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y20.AA20);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC20.AC20);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O20*O2+X20*X2+AB20*AB2+AD20*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>18</td>
+    <td>20171784</td>
+    <td>TORRES</td>
+    <td>CARVAJAL</td>
+    <td>EMILIO</td>
+    <td>JOSE</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G21.N21);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P21.W21);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y21.AA21);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC21.AC21);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O21*O2+X21*X2+AB21*AB2+AD21*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>19</td>
+    <td>9700</td>
+    <td>VARGAS</td>
+    <td>ARIAS</td>
+    <td>EDILSON</td>
+    <td>ALEXANDER</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G22.N22);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P22.W22);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y22.AA22);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC22.AC22);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O22*O2+X22*X2+AB22*AB2+AD22*AD2)/100;1)</td>
+</tr>
+<tr>
+	<td>20</td>
+    <td>20170277</td>
+    <td>VASQUEZ </td>
+    <td>REYES</td>
+    <td>JUAN </td>
+    <td>ESTEBAN</td>
+                	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(G23.N23);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(P23.W23);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(Y23.AA23);1)</td>            	<td bgcolor="#33FFFF"></td>      
+			<td bgcolor="#FFFF00">=REDONDEAR(PROMEDIO(AC23.AC23);1)</td>    <td bgcolor="#FF00FF">=REDONDEAR((O23*O2+X23*X2+AB23*AB2+AD23*AD2)/100;1)</td>
+</tr>
+<tr>
+	<th colspan="2" bgcolor="#FFFF00">Columna</th>
+    <th bgcolor="#FFFF00">Saber</th>
+    <th colspan="3" bgcolor="#FFFF00">Descripci&oacute;n de la actividad</th>
+    <th colspan="10" bgcolor="#FFFF00">NOTA: La descripci&oacute;n de la actividad debe contener no m&aacute;s de 110 caracteres
+</tr>
+<tr>
+	<td colspan="2">No1</td>
+    <td>Saber</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No2</td>
+    <td>Saber</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No3</td>
+    <td>Saber</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No4</td>
+    <td>Saber</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No5</td>
+    <td>Saber</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No6</td>
+    <td>Saber</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No7</td>
+    <td>Saber</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No8</td>
+    <td>Saber</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No9</td>
+    <td>Hacer</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No10</td>
+    <td>Hacer</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No11</td>
+    <td>Hacer</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No12</td>
+    <td>Hacer</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No13</td>
+    <td>Hacer</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No14</td>
+    <td>Hacer</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No15</td>
+    <td>Hacer</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No16</td>
+    <td>Hacer</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No17</td>
+    <td>Ser</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No18</td>
+    <td>Ser</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No19</td>
+    <td>Ser</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+<tr>
+	<td colspan="2">No20</td>
+    <td>Bimestral</td>
+    <td colspan="3" bgcolor="#33FFFF"></td>
+</tr>
+</table>
